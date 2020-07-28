@@ -24,4 +24,3 @@ I am graduate student of B. Tech degree. Always willing to learn and implement. 
     <td>  :two::six: Github Repos </td>
   </tr>
 </table>
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=ajay_prr&show_icons=true&hide_border=true)
