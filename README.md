@@ -25,3 +25,4 @@ I am graduate student of B. Tech degree. Always willing to learn and implement. 
   </tr>
 </table>
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ajay_prr&hide=["issues"]&show_icons=true)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
