@@ -24,5 +24,4 @@ I am graduate student of B. Tech degree. Always willing to learn and implement. 
     <td>  :two::six: Github Repos </td>
   </tr>
 </table>
-## Some Statistics About Me
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=ajay_prr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=ajay_prr&show_icons=true&hide_border=true)
