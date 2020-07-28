@@ -8,3 +8,19 @@ I am graduate student of B. Tech degree. Always willing to learn and implement. 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1DRkT5nErUPzXEwjUy_4R89RKcKGrji_w/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/Ajayprr/portfolio.github.io/tree/master/certificates)*
 <br />
+
+### Stats
+<table>
+  <tr>
+    <td> :three: Internships Completed </td>
+    <td> :six: Projects Completed </td>
+    <td>  :four: Guided Projects  </td>
+    <td>  :two: Virtual Internships </td>
+  </tr>
+  <tr>
+    <td>  :eight: Golden Badges  </td>
+    <td>  :one::zero: Skills Verified </td>
+    <td>  :seven: Online Courses  </td>
+    <td>  :two::six: Github Repos </td>
+  </tr>
+</table>
